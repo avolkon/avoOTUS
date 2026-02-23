@@ -2,8 +2,8 @@
 Модуль с классом Car для представления легкового автомобиля.
 """
 
-from base import Vehicle
-from engine import Engine
+from homework_05.base import Vehicle
+from homework_05.engine import Engine
 
 
 class Car(Vehicle):

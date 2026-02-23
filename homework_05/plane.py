@@ -2,8 +2,8 @@
 Модуль с классом Plane для представления самолета.
 """
 
-from base import Vehicle
-from exceptions import CargoOverload
+from homework_05.base import Vehicle
+from homework_05.exceptions import CargoOverload
 
 
 class Plane(Vehicle):

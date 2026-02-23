@@ -4,7 +4,7 @@
 """
 
 from abc import ABC
-from exceptions import LowFuelError, NotEnoughFuel
+from homework_05.exceptions import LowFuelError, NotEnoughFuel
 
 
 class Vehicle(ABC):
